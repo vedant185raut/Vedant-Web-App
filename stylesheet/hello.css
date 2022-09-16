@@ -1,0 +1,12 @@
+#hello_env {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-top: 2in;
+}
+#hello {
+  grid-column: 2;
+  justify-content: center;
+  text-align: center;
+  
+}
