@@ -1,6 +1,6 @@
 # Overview
 
-A basic Hello World program written in HTML. 
+A basic Hello World program. It integrates the use of Visual Studio Code, HTML, and Git/GitHub, as well as Piskel for animation.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -11,6 +11,7 @@ A basic Hello World program written in HTML.
 * Visual Studio Code
 * HTML5, JavaScript, and CSS
 * Git / GitHub
+* Piskel
 
 # Useful Websites
 
